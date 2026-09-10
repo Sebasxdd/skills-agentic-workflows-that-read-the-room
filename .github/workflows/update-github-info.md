@@ -10,6 +10,7 @@ permissions:
   pull-requests: read
 
 engine: copilot
+model: gpt-4.1
 
 tools:
   edit:
